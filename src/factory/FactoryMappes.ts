@@ -2,6 +2,7 @@ import UsernameFactory from "./UsernameFactory";
 import BirthdayFactory from "./BirthdayFactory";
 import { FieldType } from "../types/index";
 
+type FactoryType = UsernameFactory | BirthdayFactory;
 class FactoryMapper {
   factories: Map<FieldType, any> = new Map();
   constructor() {

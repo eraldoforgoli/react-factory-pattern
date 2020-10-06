@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import fuckangular from "./fuckangular.svg";
-import ilovereact from "./ilovereact.png";
 import "./App.css";
 import Factory from "./factory";
 import { FieldProps, FieldType } from "./types";

@@ -10,7 +10,7 @@ class Factory {
   create(item: FieldProps) {
     const { type } = item;
     const factory = this.factoryMapper.getFactory(type);
-    return factory.create(item);
+    return factory ? factory.create(item) : null;
   }
 }
 

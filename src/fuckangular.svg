@@ -1,0 +1,22 @@
+<svg width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#DD0031;}
+	.st1{fill:#C3002F;}
+	.st2{fill:#FFFFFF;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <polygon id="svg_2" points="125,30 125,30 125,30 31.9,63.2 46.1,186.3 125,230 125,230 125,230 203.9,186.3 218.1,63.2  " class="st0"/>
+   <polygon id="svg_3" points="125,30 125,52.2 125,52.1 125,153.4 125,153.4 125,230 125,230 203.9,186.3 218.1,63.2 125,30  " class="st1"/>
+   <path id="svg_4" d="m125,52.1l-58.2,130.5l0,0l21.7,0l0,0l11.7,-29.2l49.4,0l11.7,29.2l0,0l21.7,0l0,0l-58,-130.5l0,0l0,0l0,0l0,0zm17,83.3l-34,0l17,-40.9l17,40.9z" class="st2"/>
+  </g>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_5" y2="-14.54686" x2="253.5" y1="267.45314" x1="-20.49999" stroke-width="8" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="233.45313" x2="456.5" y1="232.45313" x1="456.5" stroke-width="5" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="261.45312" x2="262.5" y1="-4.54688" x1="-6.5" stroke-width="8" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_8" y2="201.45313" x2="535.5" y1="201.45313" x1="534.5" stroke-width="8" stroke="#000" fill="none"/>
+ </g>
+</svg>
